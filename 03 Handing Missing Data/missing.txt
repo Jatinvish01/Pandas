@@ -1,0 +1,8 @@
+NaN (Not a number)
+None (for object data types)
+
+1. Detect The Missing data
+      - isnull() -It is methods return boolean
+                  True = NaN is Missing
+                  False - Value is present
+
